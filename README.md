@@ -1,4 +1,4 @@
-### 1. Initial Setup
+### 1. Initial Setup for project
 
 - **Push code to GitHub**  
   Push your project code to a GitHub repository.
