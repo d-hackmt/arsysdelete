@@ -22,6 +22,9 @@ User's question:
 {question}
 
 Your well-structured response:
+
+and if the user is not asking regarding anime , or not specifically asking to suggest 1 movie do so , or if it not regarding anime give a general response
+
 """
 
     return PromptTemplate(template=template, input_variables=["context", "question"])

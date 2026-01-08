@@ -28,5 +28,5 @@ def main():
             raise CustomException("Error during pipeline " , e)
     
 if __name__=="__main__":
-     main()
+    main()
 
